@@ -1,4 +1,5 @@
 
+
 # Advinha-um-numero
 
 
@@ -15,3 +16,4 @@
 3- modelo final
 
 ![image](https://user-images.githubusercontent.com/72118415/121478918-e4c48700-c99f-11eb-9c64-545dfa776a63.png)
+[license.txt](https://github.com/chritianegozza/Advinha-um-numero/files/6629025/license.txt)
